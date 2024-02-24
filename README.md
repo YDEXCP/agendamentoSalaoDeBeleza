@@ -1,2 +1,2 @@
 # agendamentoSalaoDeBeleza
-Repositório dedicado a um projeto para uma estética feminina
+Repositório dedicado a um projeto para uma estética femininaa
