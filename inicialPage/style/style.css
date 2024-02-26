@@ -1,0 +1,18 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+
+.container {
+    text-align: center; /* Alinha o conteúdo no centro */
+    padding: 50px; /* Adiciona espaçamento interno */
+  }
+.container h1 {
+    margin-bottom: 20px;
+    font-size: 18px; /* Espaçamento abaixo do título */
+    font-family: italic ;
+  }
+.container button {
+    margin-bottom: 10px; /* Espaçamento abaixo dos botões */
+  }
