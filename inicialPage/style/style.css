@@ -36,12 +36,12 @@ html {
 }
 
 .degrade {
-  background: linear-gradient(to right, #ddbf17, rgba(238, 238, 83, 0.938));
+  background: linear-gradient(to right, #270d70, rgba(71, 12, 17, 0.938));
 }
 
 a {
   text-decoration: none;
-  color: #fff;
+  color: black;
 }
 
 header {
